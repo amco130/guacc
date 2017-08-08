@@ -15,3 +15,5 @@ Horse meat
 squirrel
 rabbit
 Cow poop
+peas
+turkey 
